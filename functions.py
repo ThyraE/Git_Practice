@@ -2,10 +2,10 @@
 # Replace the "raise NotImplementedError" line with the correct code!
    
 def print_the_instructors_name():
-    raise NotImplementedError
+    print('Dax')
 
 def print_the_number_of_this_room():
-    raise NotImplementedError
+    print('5823')
 
 def split_this_string_at_each_space(input_string):
     raise NotImplementedError
